@@ -1,5 +1,4 @@
-### Hey
-### As you can see, there is nothing to see here
+# As you can see, there is nothing to see here
 <!--
 **aithmid/aithmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
